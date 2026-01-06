@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+.env/
+.venv/
+deformable_detr/
+
+# RL / PyTorch
+*.pth
+*.pt
+
+# Logs
+logs/
+runs/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
